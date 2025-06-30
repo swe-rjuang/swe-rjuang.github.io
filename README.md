@@ -1,6 +1,4 @@
-# swe-rjuang.github.io
-
-# Portfolio
+# Shipped Titles
 
 ---
 
