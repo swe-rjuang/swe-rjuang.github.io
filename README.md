@@ -30,25 +30,25 @@
 ## Fat Princess: Fistful of Cake (2010, PSP)
 ###### Contribution: Utility-based AI, AI config export tool, pathfinding
 
-| <img src="https://user-images.githubusercontent.com/84008913/224517579-e7ee7c46-ccad-4141-9861-8c1e07788e93.png" width="400"> | 
-| :---: | 
+| ![11](https://github.com/user-attachments/assets/87f37747-335c-4249-9d77-3a4638ff3c6c) | ![maxresdefault](https://github.com/user-attachments/assets/b9753758-c6c0-4fb5-9939-067ed6a7a63f) |
+| :---: | :---: |
+| <img src="https://user-images.githubusercontent.com/84008913/224517579-e7ee7c46-ccad-4141-9861-8c1e07788e93.png" width="400"> | ![image](https://github.com/user-attachments/assets/8693dd1d-cc82-4deb-8d7f-edb15bc37af2) |
 
 ---
 
 ## Oder Up! (2008, Wii)
 ###### Contribution: Pathfinding, event triggers
 
-| <img src="https://user-images.githubusercontent.com/84008913/224517575-3b7001e5-8560-4476-81b5-0e48cce0b494.png" width="400"> | 
-| :---: | 
+| <img src="https://user-images.githubusercontent.com/84008913/224517575-3b7001e5-8560-4476-81b5-0e48cce0b494.png" width="400"> | ![order-up-ipad-02](https://github.com/user-attachments/assets/3472369d-6d68-4fc4-a9c9-379a8acb5bdd) |
 
 ---
 
 ## flOw (2008, PSP)
 ###### Contribution: Model-based reflex AI, steering and some physics
 
-| <img src="https://user-images.githubusercontent.com/84008913/224517580-8aaedc29-5bfe-4906-8350-19bfba21ed7a.png" width="400"> | 
-| :---: | 
-
+| <img src="https://user-images.githubusercontent.com/84008913/224517580-8aaedc29-5bfe-4906-8350-19bfba21ed7a.png" width="400"> | ![flow_-_rogue2__screenshot](https://github.com/user-attachments/assets/8b50076d-3517-49dc-9eff-732d4aeecea6) |
+| :---: | :---: |
+|![DAC2014_thatgamecompany_Flow_1](https://github.com/user-attachments/assets/28976e6d-d85f-41b4-83b5-d5309c2c8fec)|test|
 ---
 
 <!--
