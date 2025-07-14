@@ -4,7 +4,7 @@
 ## Aliens: Fireteam Elite
 ###### Contribution: narrative, plugins integration, data scraping and visualization, test automation frontend
 
-<img src="https://github.com/user-attachments/assets/eebdc716-6a52-48c8-812b-e3e2507edf33" width="400" height="362250"> <img src="https://github.com/user-attachments/assets/b0e8cfdc-c9f6-4690-b199-4c2da88bd06a" width="400" height="225"> 
+<img src="https://github.com/user-attachments/assets/eebdc716-6a52-48c8-812b-e3e2507edf33" width="400" height="225"> <img src="https://github.com/user-attachments/assets/b0e8cfdc-c9f6-4690-b199-4c2da88bd06a" width="400" height="225"> 
 
 
 ## Zwift (Windows, MacOS, iOS, Apple TV, Android)
