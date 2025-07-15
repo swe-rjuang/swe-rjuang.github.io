@@ -10,7 +10,7 @@
 ## Zwift (Windows, MacOS, iOS, Apple TV, Android)
 ###### Contribution: various game modes, group events, game flow refactor, video texture, UI system integration
 
-<img src="https://github.com/swe-rjuang/Resume-Portfolio/assets/83208913/476a2445-b2a8-4f7a-be44-32d91d5f56e5" width="280" height="180">&nbsp;<img src="https://github.com/user-attachments/assets/e1707ab4-51b8-48db-a290-0d61354dc363" width="158" height="180">
+<img src="https://github.com/swe-rjuang/Resume-Portfolio/assets/83208913/476a2445-b2a8-4f7a-be44-32d91d5f56e5" width="280" height="158">&nbsp;<img src="https://github.com/user-attachments/assets/e1707ab4-51b8-48db-a290-0d61354dc363" width="280" height="158">
 <img src="https://github.com/user-attachments/assets/c3063bbe-5a1d-4a1d-84ee-6cf0c28ac55e" width="320" height="180">&nbsp;<img src="https://github.com/user-attachments/assets/00a55aa9-e230-4968-98c4-236806b98667" width="320" height="180"> 
 
 
